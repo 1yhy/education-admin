@@ -1,4 +1,8 @@
 # vue-admin-template
+![image](https://user-images.githubusercontent.com/90294833/189537422-4a06f3f1-d5b2-4c0b-9f50-2e6831f09f8f.png)
+
+![image](https://user-images.githubusercontent.com/90294833/189537412-77ec265c-30fc-43fe-91d7-d22872c35db9.png)
+
 
 English | [简体中文](./README-zh.md)
 
